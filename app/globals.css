@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,head, :root{
+  height: 100vh;
+
+}
+
